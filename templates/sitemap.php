@@ -45,11 +45,25 @@
 </h1>
 
 <ul>
-    <li><a href="index">Home</a>
-    <li><a href="about">About us</a>
-    <li><a href="list">DVD ratings</a>
-    <li><a href="contact">Contact us</a>
-    <li><a href="sitemap">Site Map</a>
+    <li>
+        <a href="/index.php">Home</a>
+    </li>
+
+    <li>
+        <a href="/index.php?action=about">About Us</a>
+    </li>
+
+    <li>
+        <a href="/index.php?action=list">Movie ratings</a>
+    </li>
+
+    <li>
+        <a href="/index.php?action=contact">Contact Us</a>
+    </li>
+
+    <li>
+        <a href="/index.php?action=sitemap">Site Map</a>
+    </li>
 </ul>
 
 

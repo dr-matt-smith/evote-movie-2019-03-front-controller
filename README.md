@@ -6,9 +6,15 @@ The project has been refactored as follows:
 - move images and css into new folder `/public`
 - add Front Controller script `/public/index.php` to test for GET variable `action`
 - change all navigation links to the form `/index.php?action=<PAGE>`
+<<<<<<< HEAD
 
     - e.g. `/index.php?action=about` for link to about page
     
     - including the links in the sitemap page
     
     
+=======
+    - e.g. `/index.php?action=about` for link to about page
+   
+   
+>>>>>>> 4c3d1744be5f2fc9ab26264c1c896b7429d8947d
